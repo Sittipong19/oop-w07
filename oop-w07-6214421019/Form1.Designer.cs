@@ -1,5 +1,5 @@
 ﻿
-namespace oop-w07-6214421001
+namespace oop-w07-6214421019
 {
     partial class Form1
     {
